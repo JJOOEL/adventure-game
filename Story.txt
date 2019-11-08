@@ -282,6 +282,11 @@ Mallo:
 Nach allen 3;
 Professor E.:
 	Anscheinend hat er keine Zeit, dann lass uns zu erst zu Walli gehen!
+	
+Wenn Giftweg: 
+Professor E.: Okay wenn du meinst, dann der Giftweg.
+Professor E.: Ich bin lange nicht mehr Auf dem Giftweg gewesen.
+Professor E.:
 
 Wenn Walli: Story geht weiter
 
